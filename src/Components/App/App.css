@@ -1,0 +1,7 @@
+.container {
+	height: var(--timer-height);
+	width: var(--timer-width);
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
