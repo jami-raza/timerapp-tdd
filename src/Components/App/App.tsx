@@ -5,7 +5,7 @@ import Timer from '../Timer/Timer';
 function App() {
   return (
     <div className="container">
-      
+      <Timer/>
     </div>
   );
 }
