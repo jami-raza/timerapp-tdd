@@ -1,4 +1,5 @@
 import React,{useState, useEffect} from 'react';
+// Time Calculator
 import calculateTimer from '../TimeCalculator';
 import TimerButton from '../TimerButton/TimerButton'
 import './Timer.css';
